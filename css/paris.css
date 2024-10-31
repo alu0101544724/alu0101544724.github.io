@@ -67,7 +67,7 @@ header nav a.activo {
 
 /*------------------VIDEO-----------------------------*/
 .video {
-    width: 40%;
+    width: 80%;
     margin: auto;
 }
 
@@ -83,7 +83,7 @@ video {
     width: 100%;
 }
 /*--------------------------------------------------*/
-.video-container {
+.video-paris {
     position: relative;
     width: 100%;
     padding-bottom: 56.25%; /* Mantiene una relación de aspecto 16:9 */
@@ -91,7 +91,7 @@ video {
     overflow: hidden;
 }
 
-.video-container iframe {
+.video-paris iframe {
     position: absolute;
     top: 0;
     left: 0;
